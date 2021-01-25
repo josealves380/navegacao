@@ -3,7 +3,7 @@ import React from 'react'
 const About = props => (
     <div className="About">
         <h1>Sobre</h1>
-        <p>O nosso Component foi criado...</p>
+        <h2>O nosso Component foi criado...</h2>
     </div>
 )
 
